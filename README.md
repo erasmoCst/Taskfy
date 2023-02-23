@@ -1,3 +1,3 @@
 # Taskfy
 
-##Task Manager App, developted with React Native
+## Task Manager App, developted with React Native
